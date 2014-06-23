@@ -1,0 +1,16 @@
+Installing NightWatch:
+==============
+- Make sure you have node/npm installed
+- Create your project
+- cd into your project folder
+- npm init
+- npm install -g nightwatch --save-dev
+
+Setting up your project:
+==============
+- Create your test folder and you are ready to write your first test
+- Create your nightwatch.json with the Selenium setup as well as the path to your test folder
+
+Running your tests:
+==============
+$nightwatch
